@@ -68,7 +68,11 @@ Projections – Future AQI risks and purifier demand hotspots
 ✦ Key Insights
 
 1.Weekday pollution spikes in metro cities show strong links with traffic and lifestyle patterns.
+
 2.Southern states have a different pollutant mix compared to northern metros, suggesting purifier features should be localized.
+
 3.States with high EV adoption are beginning to see improved AQI, but changes remain uneven.
+
 4.Respiratory illnesses like asthma are strongly correlated with AQI spikes.
+
 5.Forecasts point to several Tier-2 cities becoming high-risk zones, opening future purifier market opportunities.
